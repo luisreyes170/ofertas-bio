@@ -1,0 +1,19 @@
+{
+    "updated_at": "2024-02-20T11:00:00Z",
+    "offers": [
+        {
+            "id": 1,
+            "title": "Perfume Natura Kayak - Fragancia Masculina",
+            "url": "https://www.natura.cl/p/perfume-kayak/123",
+            "discount": "35%",
+            "source": "natura"
+        },
+        {
+            "id": 2,
+            "title": "Set de Maquillaje Ésika PRO - Kit Completo",
+            "url": "https://www.esika.com/cl/p/set-maquillaje/456",
+            "discount": "50%",
+            "source": "belcorp"
+        }
+    ]
+}
