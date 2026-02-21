@@ -1,6 +1,14 @@
 {
-    "updated_at": "2026-02-20T18:59:01.601453",
+    "updated_at": "2026-02-21T00:48:19.147607",
     "offers": [
+        {
+            "id": 1771645699,
+            "title": "Oferta Destacada",
+            "url": "https://www.mercadolibre.cl/social/luis_sebastian_reyes?matt_word=luis_sebastian_reyes&matt_tool=25770261&forceInApp=true&ref=BAjl8tMSpcNSt8Y9yh134jkgNGajnKFHZbMsIbnPLYubNBBi8FvZmA8z%2FK6mjaZ3ssGnZBwsZWomNav0e%2FfgtHk1hGQb2SGAisQbYm6mWsAZL12dPNo4zzXONtqLZ3JnzdyREaI85OWQRFrAb6c5bh9Pu%2BdBk9yKKVFJyK5KY20seiMbm4UUg0kz8wX7yz2pOVsaO9E%3D",
+            "discount": null,
+            "source": "DESTACADO",
+            "added_at": "2026-02-21T00:48:19.147600"
+        },
         {
             "id": 1771624741,
             "title": "Oferta Destacada",
