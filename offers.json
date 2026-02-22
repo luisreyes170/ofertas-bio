@@ -1,65 +1,15 @@
 {
-    "updated_at": "2026-02-22T14:10:14.028089",
+    "updated_at": "2026-02-22T15:23:56.184183",
     "offers": [
         {
-            "id": 1771780214,
-            "title": "Bleu Night Perfume para Hombre 100 ml.",
-            "url": "https://lbel.tiendabelcorp.cl/bleu-night-perfume-para-hombre-100-ml/p?utmi_cp=luisreyes03",
-            "price": "24.156",
+            "id": 1771784636,
+            "title": "Perfume de Mujer Mon L'BEL 40 ml.",
+            "url": "https://lbel.tiendabelcorp.cl/mon-lbel-perfume-de-mujer-upg/p?utmi_cp=luisreyes03",
+            "price": "25.638",
             "image": null,
             "discount": "45.1",
             "source": "belcorp",
-            "added_at": "2026-02-22T14:10:14.028081"
-        },
-        {
-            "id": 1771779727,
-            "title": "Brillo para Pestañas y Cejas THE ONE",
-            "url": "https://cl.oriflame.com/products/product?code=47977",
-            "price": "9.990",
-            "image": null,
-            "discount": "50.05",
-            "source": "oriflame",
-            "added_at": "2026-02-22T14:02:07.779528"
-        },
-        {
-            "id": 1771775769,
-            "title": "Humor",
-            "url": "https://www.natura.cl/p/humor-meu-primeir-humor-edt-femenino-75ml/NATCHL-64746?position=5&listTitle=tab+showcase+-+las+mejores+ofertas+de+la+semana&consultoria=LUISREYESREYES",
-            "price": "20.380\ngeneral.tag -40%\n-40%",
-            "image": null,
-            "discount": "203804040.0",
-            "source": "natura",
-            "added_at": "2026-02-22T12:56:09.878536"
-        },
-        {
-            "id": 1771771028,
-            "title": "Kaiak",
-            "url": "https://www.natura.cl/p/kaiak-urbe-eau-de-toilette-masculino-100-ml/NATCHL-111172?position=8&listTitle=tab+showcase+-+las+mejores+ofertas+de+la+semana&consultoria=LUISREYESREYES",
-            "price": "20.980\ngeneral.tag -40%\n-40%",
-            "image": null,
-            "discount": "209804040.0",
-            "source": "natura",
-            "added_at": "2026-02-22T11:37:08.157122"
-        },
-        {
-            "id": 1771770946,
-            "title": "Kaiak",
-            "url": "https://www.natura.cl/p/kaiak-aventura-eau-de-toilette-femenina-100ml/NATCHL-111177?position=6&listTitle=tab+showcase+-+las+mejores+ofertas+de+la+semana&consultoria=LUISREYESREYES",
-            "price": "20.980\ngeneral.tag -40%\n-40%",
-            "image": null,
-            "discount": "209804040.0",
-            "source": "natura",
-            "added_at": "2026-02-22T11:35:46.656740"
-        },
-        {
-            "id": 1771770478,
-            "title": "Kaiak",
-            "url": "https://www.natura.cl/p/kaiak-k--edp-masculino-100ml/NATCHL-69062?position=7&listTitle=tab+showcase+-+las+mejores+ofertas+de+la+semana&consultoria=LUISREYESREYES",
-            "price": "26.980\ngeneral.tag -40%\n-40%",
-            "image": null,
-            "discount": "269804040.0",
-            "source": "natura",
-            "added_at": "2026-02-22T11:27:58.817333"
+            "added_at": "2026-02-22T15:23:56.184175"
         }
     ]
 }
