@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-02-22T11:35:46.656752",
+    "updated_at": "2026-02-22T11:37:08.157132",
     "offers": [
+        {
+            "id": 1771771028,
+            "title": "Kaiak",
+            "url": "https://www.natura.cl/p/kaiak-urbe-eau-de-toilette-masculino-100-ml/NATCHL-111172?position=8&listTitle=tab+showcase+-+las+mejores+ofertas+de+la+semana&consultoria=LUISREYESREYES",
+            "price": "20.980\ngeneral.tag -40%\n-40%",
+            "image": null,
+            "discount": "209804040.0",
+            "source": "natura",
+            "added_at": "2026-02-22T11:37:08.157122"
+        },
         {
             "id": 1771770946,
             "title": "Kaiak",
