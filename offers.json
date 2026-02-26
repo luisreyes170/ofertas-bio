@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-02-26T14:11:39.530543",
+    "updated_at": "2026-02-26T14:12:51.519867",
     "offers": [
+        {
+            "id": 1772125971,
+            "title": "✨ Oferta Imperdible",
+            "url": "https://meli.la/1s1xEnN",
+            "price": null,
+            "image": "https://files.catbox.moe/u5ryto.png",
+            "discount": null,
+            "source": "DESTACADO",
+            "added_at": "2026-02-26T14:12:51.519861"
+        },
         {
             "id": 1772125899,
             "title": "✨ Oferta Imperdible",
