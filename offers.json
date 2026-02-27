@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-02-26T21:33:20.986805",
+    "updated_at": "2026-02-26T21:42:59.268497",
     "offers": [
+        {
+            "id": 1772152979,
+            "title": "✨ Oferta Imperdible",
+            "url": "https://meli.la/1TxvAk3",
+            "price": "39.990",
+            "image": "https://files.catbox.moe/c43nuy.png",
+            "discount": null,
+            "source": "DESTACADO",
+            "added_at": "2026-02-26T21:42:59.268491"
+        },
         {
             "id": 1772152400,
             "title": "Trotadora Yep 3100 14 Km/h Negro",
