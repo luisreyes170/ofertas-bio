@@ -1,45 +1,15 @@
 {
-    "updated_at": "2026-02-26T14:12:51.519867",
+    "updated_at": "2026-02-26T21:31:01.877671",
     "offers": [
         {
-            "id": 1772125971,
-            "title": "✨ Oferta Imperdible",
-            "url": "https://meli.la/1s1xEnN",
-            "price": null,
-            "image": "https://files.catbox.moe/u5ryto.png",
-            "discount": null,
-            "source": "DESTACADO",
-            "added_at": "2026-02-26T14:12:51.519861"
-        },
-        {
-            "id": 1772125899,
-            "title": "✨ Oferta Imperdible",
-            "url": "https://meli.la/2HsSuid",
-            "price": null,
-            "image": "https://files.catbox.moe/wqay4a.png",
-            "discount": null,
-            "source": "DESTACADO",
-            "added_at": "2026-02-26T14:11:39.530538"
-        },
-        {
-            "id": 1772125673,
-            "title": "✨ Oferta Imperdible",
-            "url": "https://meli.la/1nstEUs",
-            "price": null,
-            "image": "https://files.catbox.moe/9dshna.png",
-            "discount": null,
-            "source": "DESTACADO",
-            "added_at": "2026-02-26T14:07:53.395538"
-        },
-        {
-            "id": 1772125145,
-            "title": "Set Perfumes de Hombre Magnat Select + Magnat Exclusive",
-            "url": "https://esika.tiendabelcorp.cl/set-perfumes-de-hombre-magnat-select-y-magnat-exclusive/p?utmi_cp=luisreyes03",
-            "price": "31.200",
-            "image": "https://esikachile.vtexassets.com/arquivos/ids/427924-500-auto?v=638799039325830000&width=500&height=auto&aspect=true",
+            "id": 1772152261,
+            "title": "Set Perfume para Mujer Dream + Vibranza",
+            "url": "https://esika.tiendabelcorp.cl/set-perfume-para-mujer-dream-y-vibranza/p?utmi_cp=luisreyes03",
+            "price": "26.240",
+            "image": "https://esikachile.vtexassets.com/arquivos/ids/398117-500-auto?v=638536542218830000&width=500&height=auto&aspect=true",
             "discount": "60.0",
             "source": "belcorp",
-            "added_at": "2026-02-26T13:59:05.239057"
+            "added_at": "2026-02-26T21:31:01.877658"
         }
     ]
 }
