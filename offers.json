@@ -1,35 +1,15 @@
 {
-    "updated_at": "2026-02-26T21:42:59.268497",
+    "updated_at": "2026-03-01T10:57:39.094468",
     "offers": [
         {
-            "id": 1772152979,
+            "id": 1772373459,
             "title": "✨ Oferta Imperdible",
-            "url": "https://meli.la/1TxvAk3",
-            "price": "39.990",
-            "image": "https://files.catbox.moe/c43nuy.png",
+            "url": "https://meli.la/1XodeAP",
+            "price": null,
+            "image": "https://files.catbox.moe/zrgnw2.png",
             "discount": null,
             "source": "DESTACADO",
-            "added_at": "2026-02-26T21:42:59.268491"
-        },
-        {
-            "id": 1772152400,
-            "title": "Trotadora Yep 3100 14 Km/h Negro",
-            "url": "https://meli.la/2VrkB8s",
-            "price": "259990.0",
-            "image": "https://http2.mlstatic.com/D_Q_NP_2X_844028-MLA99453280928_112025-AB.webp",
-            "discount": "56.0",
-            "source": "meli",
-            "added_at": "2026-02-26T21:33:20.986797"
-        },
-        {
-            "id": 1772152261,
-            "title": "Set Perfume para Mujer Dream + Vibranza",
-            "url": "https://esika.tiendabelcorp.cl/set-perfume-para-mujer-dream-y-vibranza/p?utmi_cp=luisreyes03",
-            "price": "26.240",
-            "image": "https://esikachile.vtexassets.com/arquivos/ids/398117-500-auto?v=638536542218830000&width=500&height=auto&aspect=true",
-            "discount": "60.0",
-            "source": "belcorp",
-            "added_at": "2026-02-26T21:31:01.877658"
+            "added_at": "2026-03-01T10:57:39.094455"
         }
     ]
 }
