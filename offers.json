@@ -1,15 +1,15 @@
 {
-    "updated_at": "2026-03-01T17:51:01.015971",
+    "updated_at": "2026-03-01T18:26:45.911356",
     "offers": [
         {
-            "id": 1772398261,
-            "title": "Mega Full Size Extender Primer",
-            "url": "https://esika.tiendabelcorp.cl/mega-full-size-extender-primer/p?skuId=200117345&utmi_cp=luisreyes03",
-            "price": "$11.325",
-            "image": "https://esikachile.vtexassets.com/arquivos/ids/533800-500-auto?v=639064357204430000&width=500&height=auto&aspect=true",
-            "discount": "25.0",
-            "source": "belcorp",
-            "added_at": "2026-03-01T17:51:01.015963"
+            "id": 1772400405,
+            "title": "Desodorante Roll-On North For Men Subzero",
+            "url": "https://cl.oriflame.com/products/product?code=46633&store=CL-luisreyes",
+            "price": "$3.990",
+            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F46633%2F46633_1.png&MediaId=19264601&Version=1&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
+            "discount": "46.8",
+            "source": "oriflame",
+            "added_at": "2026-03-01T18:26:45.911346"
         }
     ]
 }
