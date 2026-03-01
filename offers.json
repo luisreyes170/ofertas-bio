@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-01T10:57:39.094468",
+    "updated_at": "2026-03-01T11:27:31.579243",
     "offers": [
+        {
+            "id": 1772375251,
+            "title": "Esmalte de Uñas Gel Color PRO",
+            "url": "https://esika.tiendabelcorp.cl/esmalte-de-unas-gel-color-pro/p?skuId=200121325&utmi_cp=luisreyes03",
+            "price": "$7.650",
+            "image": "https://esikachile.vtexassets.com/arquivos/ids/536822-500-auto?v=639064408007330000&width=500&height=auto&aspect=true",
+            "discount": "25.0",
+            "source": "belcorp",
+            "added_at": "2026-03-01T11:27:31.579234"
+        },
         {
             "id": 1772373459,
             "title": "✨ Oferta Imperdible",
