@@ -1,45 +1,15 @@
 {
-    "updated_at": "2026-03-01T21:50:01.793580",
+    "updated_at": "2026-03-02T17:52:59.398734",
     "offers": [
         {
-            "id": 1772412601,
-            "title": "Anker Adaptador Anker 332 Usb-c Hub 5 En 1, Hdmi 4k@30hz, 5gbps 2 Usb-c Y 2 Usb-a, Para Mac, iPad, Windows, Dell Xps, Lenovo Thinkpad, Chromebook Y Consolas, Diseño Compacto Y Ligero, Plug & Play",
-            "url": "https://meli.la/1URWJ6j",
-            "price": "$20.360",
-            "image": "https://http2.mlstatic.com/D_Q_NP_2X_864769-MLA99446016990_112025-AB.webp",
-            "discount": "18.0",
-            "source": "meli",
-            "added_at": "2026-03-01T21:50:01.793564"
-        },
-        {
-            "id": 1772406997,
-            "title": "Mascarilla de Carbón Peel-Off Pure Skin",
-            "url": "https://cl.oriflame.com/products/product?code=42881&store=CL-luisreyes",
-            "price": "$5.990",
-            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F42881%2F42881_1.png&MediaId=15037687&Version=3&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
-            "discount": "50.1",
+            "id": 1772484779,
+            "title": "Gel Hidratante 2 en 1 North For Men Subzero",
+            "url": "https://cl.oriflame.com/products/product?code=46149&store=CL-luisreyes",
+            "price": "$2.990",
+            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F46149%2F46149_1.png&MediaId=19264571&Version=2&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
+            "discount": "60.1",
             "source": "oriflame",
-            "added_at": "2026-03-01T20:16:37.360276"
-        },
-        {
-            "id": 1772403281,
-            "title": "Crema Reafirmante para Contorno de Ojos Royal Velvet",
-            "url": "https://cl.oriflame.com/products/product?code=47007&store=CL-luisreyes",
-            "price": "$11.990",
-            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F47007%2F47007_1.png&MediaId=19191859&Version=1&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
-            "discount": "47.9",
-            "source": "oriflame",
-            "added_at": "2026-03-01T19:14:41.363427"
-        },
-        {
-            "id": 1772400405,
-            "title": "Desodorante Roll-On North For Men Subzero",
-            "url": "https://cl.oriflame.com/products/product?code=46633&store=CL-luisreyes",
-            "price": "$3.990",
-            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F46633%2F46633_1.png&MediaId=19264601&Version=1&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
-            "discount": "46.8",
-            "source": "oriflame",
-            "added_at": "2026-03-01T18:26:45.911346"
+            "added_at": "2026-03-02T17:52:59.398726"
         }
     ]
 }
