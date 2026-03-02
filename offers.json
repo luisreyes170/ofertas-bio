@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-02T17:52:59.398734",
+    "updated_at": "2026-03-02T18:25:48.481820",
     "offers": [
+        {
+            "id": 1772486748,
+            "title": "Hecelo Llave De Impacto 3/4 Profesional Sin Escobillas Kit",
+            "url": "https://meli.la/1nufmb3",
+            "price": "$102.202",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_976225-MLC95753547119_102025-AB.webp",
+            "discount": "67.0",
+            "source": "meli",
+            "added_at": "2026-03-02T18:25:48.481813"
+        },
         {
             "id": 1772484779,
             "title": "Gel Hidratante 2 en 1 North For Men Subzero",
