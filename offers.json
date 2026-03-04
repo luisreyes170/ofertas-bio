@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-02T18:25:48.481820",
+    "updated_at": "2026-03-04T14:25:36.297832",
     "offers": [
+        {
+            "id": 1772645136,
+            "title": "Gua Sha Wellosophy",
+            "url": "https://cl.oriflame.com/products/product?code=46661&store=CL-luisreyes",
+            "price": "$9.990",
+            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F46661%2F46661_1.png&MediaId=19552079&Version=1&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
+            "discount": "37.6",
+            "source": "oriflame",
+            "added_at": "2026-03-04T14:25:36.297826"
+        },
         {
             "id": 1772486748,
             "title": "Hecelo Llave De Impacto 3/4 Profesional Sin Escobillas Kit",
