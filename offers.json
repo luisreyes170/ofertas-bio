@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-04T14:25:36.297832",
+    "updated_at": "2026-03-04T18:12:48.211038",
     "offers": [
+        {
+            "id": 1772658768,
+            "title": "Audifonos Bluetooth Blik Aura950 Cancelación De Ruido 72h Negro",
+            "url": "https://meli.la/1ozurx7",
+            "price": "$39.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_807466-MLA100002708669_112025-AB.webp",
+            "discount": "50.0",
+            "source": "meli",
+            "added_at": "2026-03-04T18:12:48.211032"
+        },
         {
             "id": 1772645136,
             "title": "Gua Sha Wellosophy",
