@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-05T19:15:14.600382",
+    "updated_at": "2026-03-05T20:45:19.281324",
     "offers": [
+        {
+            "id": 1772754319,
+            "title": "✨ Oferta Imperdible",
+            "url": "https://meli.la/2HxpH6x",
+            "price": "$12.990",
+            "image": "https://files.catbox.moe/r4mutd.png",
+            "discount": null,
+            "source": "DESTACADO",
+            "added_at": "2026-03-05T20:45:19.281315"
+        },
         {
             "id": 1772748914,
             "title": "Mochila Para Laptop De 15.6 Pulgadas, Mochila De Viaje Para Laptop, Con Puerto Carga Usb, Ideal Para Negocios, Mejor Mochila Para Escolar, Antirrobo Matein 1007 Color Negro Liso",
