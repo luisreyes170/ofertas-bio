@@ -1,25 +1,15 @@
 {
-    "updated_at": "2026-03-05T20:45:19.281324",
+    "updated_at": "2026-03-05T23:26:45.063900",
     "offers": [
         {
-            "id": 1772754319,
-            "title": "✨ Oferta Imperdible",
-            "url": "https://meli.la/2HxpH6x",
-            "price": "$12.990",
-            "image": "https://files.catbox.moe/r4mutd.png",
-            "discount": null,
-            "source": "DESTACADO",
-            "added_at": "2026-03-05T20:45:19.281315"
-        },
-        {
-            "id": 1772748914,
-            "title": "Mochila Para Laptop De 15.6 Pulgadas, Mochila De Viaje Para Laptop, Con Puerto Carga Usb, Ideal Para Negocios, Mejor Mochila Para Escolar, Antirrobo Matein 1007 Color Negro Liso",
-            "url": "https://meli.la/2wM3Eu6",
-            "price": "$17.479",
-            "image": "https://http2.mlstatic.com/D_Q_NP_2X_738288-MLA100186793691_122025-AB.webp",
-            "discount": "52.0",
+            "id": 1772764005,
+            "title": "Notebook Hp 250 G9 Intel Core I3 8gb Ram 256gb Ssd",
+            "url": "https://meli.la/33AYder",
+            "price": "$389.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_974285-MLU77349112019_062024-AB.webp",
+            "discount": "48.0",
             "source": "meli",
-            "added_at": "2026-03-05T19:15:14.600371"
+            "added_at": "2026-03-05T23:26:45.063890"
         }
     ]
 }
