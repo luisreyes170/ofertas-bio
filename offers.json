@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-05T23:26:45.063900",
+    "updated_at": "2026-03-09T12:48:45.027051",
     "offers": [
+        {
+            "id": 1773071325,
+            "title": "Boost De Hidratación Extra Life 20 Sachets Variety 4 Sabores",
+            "url": "https://meli.la/26shce6",
+            "price": "$22.882",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_639756-MLC90134055301_082025-AB.webp",
+            "discount": "41.0",
+            "source": "meli",
+            "added_at": "2026-03-09T12:48:45.027045"
+        },
         {
             "id": 1772764005,
             "title": "Notebook Hp 250 G9 Intel Core I3 8gb Ram 256gb Ssd",
