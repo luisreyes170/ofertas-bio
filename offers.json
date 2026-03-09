@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-09T12:48:45.027051",
+    "updated_at": "2026-03-09T16:22:23.127117",
     "offers": [
+        {
+            "id": 1773084143,
+            "title": "Eternally for Her Perfume de Mujer, 50 ml",
+            "url": "https://esika.tiendabelcorp.cl/eternally-for-her-perfume-de-mujer-50-ml/p?utmi_cp=luisreyes03",
+            "price": "$20.700",
+            "image": "https://esikachile.vtexassets.com/arquivos/ids/540398-500-auto?v=639082338090970000&width=500&height=auto&aspect=true",
+            "discount": "40.0",
+            "source": "belcorp",
+            "added_at": "2026-03-09T16:22:23.127065"
+        },
         {
             "id": 1773071325,
             "title": "Boost De Hidratación Extra Life 20 Sachets Variety 4 Sabores",
