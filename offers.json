@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-12T13:39:09.887096",
+    "updated_at": "2026-03-12T13:43:41.207800",
     "offers": [
+        {
+            "id": 1773333821,
+            "title": "Crema Facial Hidra Nutritiva 25+ Triple Acción Max, 120 g",
+            "url": "https://esika.tiendabelcorp.cl/crema-facial-hidra-nutritiva-25-triple-accion-max-120-g/p?utmi_cp=luisreyes03",
+            "price": "$10.010",
+            "image": "https://esikachile.vtexassets.com/arquivos/ids/536047-500-auto?v=639064396223200000&width=500&height=auto&aspect=true",
+            "discount": "35.0",
+            "source": "belcorp",
+            "added_at": "2026-03-12T13:43:41.207792"
+        },
         {
             "id": 1773333549,
             "title": "Silla De Auto Alzador Go Isofix Black Stone Infanti Color Negro",
