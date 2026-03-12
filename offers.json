@@ -1,26 +1,6 @@
 {
-    "updated_at": "2026-03-12T13:08:11.121320",
+    "updated_at": "2026-03-12T13:31:20.966993",
     "offers": [
-        {
-            "id": 1773331691,
-            "title": "✨ Oferta Imperdible",
-            "url": "https://meli.la/2Sq1Umg",
-            "price": "$39.990",
-            "image": "https://files.catbox.moe/p2h2sy.png",
-            "discount": null,
-            "source": "DESTACADO",
-            "added_at": "2026-03-12T13:08:11.121313"
-        },
-        {
-            "id": 1773331613,
-            "title": "✨ Oferta Imperdible",
-            "url": "https://meli.la/2Fggg1y",
-            "price": "$19.980",
-            "image": "https://files.catbox.moe/jpgqg9.png",
-            "discount": null,
-            "source": "DESTACADO",
-            "added_at": "2026-03-12T13:06:53.462205"
-        },
         {
             "id": 1773099158,
             "title": "Eternally for Him Perfume de Hombre, 100 ml",
@@ -50,16 +30,6 @@
             "discount": "41.0",
             "source": "meli",
             "added_at": "2026-03-09T12:48:45.027045"
-        },
-        {
-            "id": 1772764005,
-            "title": "Notebook Hp 250 G9 Intel Core I3 8gb Ram 256gb Ssd",
-            "url": "https://meli.la/33AYder",
-            "price": "$389.990",
-            "image": "https://http2.mlstatic.com/D_Q_NP_2X_974285-MLU77349112019_062024-AB.webp",
-            "discount": "48.0",
-            "source": "meli",
-            "added_at": "2026-03-05T23:26:45.063890"
         }
     ]
 }
