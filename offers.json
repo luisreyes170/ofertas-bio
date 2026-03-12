@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-12T13:06:53.462214",
+    "updated_at": "2026-03-12T13:08:11.121320",
     "offers": [
+        {
+            "id": 1773331691,
+            "title": "✨ Oferta Imperdible",
+            "url": "https://meli.la/2Sq1Umg",
+            "price": "$39.990",
+            "image": "https://files.catbox.moe/p2h2sy.png",
+            "discount": null,
+            "source": "DESTACADO",
+            "added_at": "2026-03-12T13:08:11.121313"
+        },
         {
             "id": 1773331613,
             "title": "✨ Oferta Imperdible",
