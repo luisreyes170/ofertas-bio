@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-13T21:59:02.526741",
+    "updated_at": "2026-03-14T01:36:39.172984",
     "offers": [
+        {
+            "id": 1773462999,
+            "title": "Silla Auto Alzador Starfix Black Infanti Suave Negro",
+            "url": "https://meli.la/2mh9wj8",
+            "price": "$31.890",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_840063-MLA99589432514_122025-AB.webp",
+            "discount": "64.0",
+            "source": "meli",
+            "added_at": "2026-03-14T01:36:39.172977"
+        },
         {
             "id": 1773449942,
             "title": "Smart Tv Aiwa 43'' Full Hd Bluetooth Wifi Sistema Google Tv",
