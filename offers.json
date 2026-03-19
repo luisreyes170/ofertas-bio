@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-19T00:33:49.805104",
+    "updated_at": "2026-03-19T10:16:07.019829",
     "offers": [
+        {
+            "id": 1773926167,
+            "title": "Crema Contorno de Ojos Optimals Age Revive",
+            "url": "https://cl.oriflame.com/products/product?code=42550",
+            "price": "$4.290",
+            "image": null,
+            "discount": "59.14",
+            "source": "oriflame",
+            "added_at": "2026-03-19T10:16:07.019822"
+        },
         {
             "id": 1773891229,
             "title": "✨ Oferta Imperdible",
