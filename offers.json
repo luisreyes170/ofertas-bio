@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-18T21:45:55.958042",
+    "updated_at": "2026-03-19T00:33:49.805104",
     "offers": [
+        {
+            "id": 1773891229,
+            "title": "✨ Oferta Imperdible",
+            "url": "https://meli.la/2e1gYYG",
+            "price": "$99.999",
+            "image": "https://files.catbox.moe/y9zm1h.png",
+            "discount": null,
+            "source": "DESTACADO",
+            "added_at": "2026-03-19T00:33:49.805097"
+        },
         {
             "id": 1773881155,
             "title": "Crema de Noche Optimals Age Revive",
