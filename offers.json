@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-27T06:12:32.793950",
+    "updated_at": "2026-03-27T10:30:58.332226",
     "offers": [
+        {
+            "id": 1774618258,
+            "title": "Notebook Tuf Gaming A16 Ryzen 7 16gb Ram 512gb Ssd Rtx 4050 Negro",
+            "url": "https://meli.la/2t9zEVd",
+            "price": "$1.087.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_857377-MLA98426017746_112025-AB.webp",
+            "discount": "23.0",
+            "source": "meli",
+            "added_at": "2026-03-27T10:30:58.332212"
+        },
         {
             "id": 1774602752,
             "title": "Samsung Galaxy A26 5g 128gb Negro",
