@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-27T10:52:22.814041",
+    "updated_at": "2026-03-27T12:33:19.595130",
     "offers": [
+        {
+            "id": 1774625599,
+            "title": "Apple iPhone 15 128 Gb Rosa - Distribuidor Autorizado",
+            "url": "https://meli.la/1gBJp1W",
+            "price": "$669.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_729317-MLA95935359515_102025-AB.webp",
+            "discount": "25.0",
+            "source": "meli",
+            "added_at": "2026-03-27T12:33:19.595119"
+        },
         {
             "id": 1774619542,
             "title": "Bolsa para Regalo Festive",
