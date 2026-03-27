@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-26T23:56:57.734839",
+    "updated_at": "2026-03-27T06:12:32.793950",
     "offers": [
+        {
+            "id": 1774602752,
+            "title": "Samsung Galaxy A26 5g 128gb Negro",
+            "url": "https://meli.la/2PAGtzK",
+            "price": "$179.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_879492-MLA106748129789_022026-AB.webp",
+            "discount": "40.0",
+            "source": "meli",
+            "added_at": "2026-03-27T06:12:32.793942"
+        },
         {
             "id": 1774580217,
             "title": "Taladro De Rotación 3/8 6413 450watts Makita Color Verde",
