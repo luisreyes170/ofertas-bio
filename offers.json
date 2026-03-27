@@ -1,15 +1,15 @@
 {
-    "updated_at": "2026-03-26T18:28:57.971858",
+    "updated_at": "2026-03-26T22:55:14.735776",
     "offers": [
         {
-            "id": 1774560537,
-            "title": "Cápsulas Restauradoras con Aceites Naturales Novage+",
-            "url": "https://cl.oriflame.com/products/product?code=42256&store=CL-luisreyes",
-            "price": "$26.990",
-            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F42256%2F42256_1.png&MediaId=18501084&Version=2&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
-            "discount": "42.6",
-            "source": "oriflame",
-            "added_at": "2026-03-26T18:28:57.971851"
+            "id": 1774576514,
+            "title": "Audifonos Bluetooth Blik Neo Cancelación De Ruido 60h Negro",
+            "url": "https://meli.la/31i29ag",
+            "price": "$24.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_883069-MLA108584605605_032026-AB.webp",
+            "discount": "58.0",
+            "source": "meli",
+            "added_at": "2026-03-26T22:55:14.735769"
         }
     ]
 }
