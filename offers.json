@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-27T10:30:58.332226",
+    "updated_at": "2026-03-27T10:52:22.814041",
     "offers": [
+        {
+            "id": 1774619542,
+            "title": "Bolsa para Regalo Festive",
+            "url": "https://cl.oriflame.com/products/product?code=48975&store=CL-luisreyes",
+            "price": "$990",
+            "image": "https://media-cdn.oriflame.com/productImage?externalMediaId=product-management-media%2FProducts%2F48975%2F48975_1.png&MediaId=20703429&Version=1&w=600&bc=%23f5f5f5&ib=%23f5f5f5&h=600&q=90&imageFormat=WebP",
+            "discount": "75.2",
+            "source": "oriflame",
+            "added_at": "2026-03-27T10:52:22.814033"
+        },
         {
             "id": 1774618258,
             "title": "Notebook Tuf Gaming A16 Ryzen 7 16gb Ram 512gb Ssd Rtx 4050 Negro",
