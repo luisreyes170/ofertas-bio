@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-26T22:55:14.735776",
+    "updated_at": "2026-03-26T23:13:43.573772",
     "offers": [
+        {
+            "id": 1774577623,
+            "title": "Notebook Hp Pavilion X360 14-ek1013la Intel Core I3 8gb Ram 512gb Ssd Windows 11 Home Plateado",
+            "url": "https://meli.la/2gG2ZcE",
+            "price": "$554.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_718269-MLA99462364400_112025-AB.webp",
+            "discount": "40.0",
+            "source": "meli",
+            "added_at": "2026-03-26T23:13:43.573765"
+        },
         {
             "id": 1774576514,
             "title": "Audifonos Bluetooth Blik Neo Cancelación De Ruido 60h Negro",
