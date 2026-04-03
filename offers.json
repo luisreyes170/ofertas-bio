@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-04-03T12:27:12.082932",
+    "updated_at": "2026-04-03T16:16:57.527196",
     "offers": [
+        {
+            "id": 1775243817,
+            "title": "Freidora De Aire Kitchen-it Dual Edition 9l Color Negro",
+            "url": "https://meli.la/1nU7Zbf",
+            "price": "$82.490",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_680848-MLA99453730232_112025-AB.webp",
+            "discount": "48.0",
+            "source": "meli",
+            "added_at": "2026-04-03T16:16:57.527191"
+        },
         {
             "id": 1775230032,
             "title": "Winkler Nutrition - L-citrulina 300g",
