@@ -1,6 +1,16 @@
 {
-    "updated_at": "2026-03-27T12:33:19.595130",
+    "updated_at": "2026-04-03T12:27:12.082932",
     "offers": [
+        {
+            "id": 1775230032,
+            "title": "Winkler Nutrition - L-citrulina 300g",
+            "url": "https://meli.la/16E6FjN",
+            "price": "$19.990",
+            "image": "https://http2.mlstatic.com/D_Q_NP_2X_604918-MLA99990927673_112025-AB.webp",
+            "discount": "50.0",
+            "source": "meli",
+            "added_at": "2026-04-03T12:27:12.082927"
+        },
         {
             "id": 1774625599,
             "title": "Apple iPhone 15 128 Gb Rosa - Distribuidor Autorizado",
